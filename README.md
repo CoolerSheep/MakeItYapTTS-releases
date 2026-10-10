@@ -5,16 +5,16 @@ maintained separately in a private repository. Releases are built locally,
 without GitHub Actions.
 
 Visit [makeityap.com](https://www.makeityap.com/) for product information and
-[Releases](https://github.com/CoolerSheep/MakeItYapTTS-releases/releases) for
-published installers. Version 0.9.7 is undergoing release acceptance and is not
-yet published.
+[the download page](https://www.makeityap.com/download.html) for installation
+instructions. [Version 0.9.7](https://github.com/CoolerSheep/MakeItYapTTS-releases/releases/tag/v0.9.7)
+is available now.
 
 ## Offline installation
 
 Download the versioned Setup executable and all six numbered runtime/model parts
 into the same folder. Run Setup; it checks and extracts the parts automatically.
 Each file is at most 1,900,000,000 bytes. The complete download is approximately
-8.9 GB and includes all voices and Create a voice, without installation or
+8.79 GB and includes all voices and Create a voice, without installation or
 first-use downloads. The installer is unsigned.
 
 ## Updates and licences
@@ -28,3 +28,7 @@ The application is proprietary; see [LICENSE.txt](LICENSE.txt) and the
 [Terms of Use](https://www.makeityap.com/terms.html). Third-party components retain
 their own licences. Release assets include their notices and corresponding-source
 materials; the proprietary application licence does not restrict those rights.
+
+The optional 1.21 GB source archive is separate from the installation files.
+It contains pinned dependency sources, licence texts, checksums and rebuild
+instructions; it is not required to install or use MakeItYapTTS.

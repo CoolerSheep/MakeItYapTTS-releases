@@ -6,8 +6,21 @@ without GitHub Actions.
 
 Visit [makeityap.com](https://www.makeityap.com/) for product information and
 [the download page](https://www.makeityap.com/download.html) for installation
-instructions. [Version 0.9.7](https://github.com/CoolerSheep/MakeItYapTTS-releases/releases/tag/v0.9.7)
+instructions. [Version 0.9.8](https://github.com/CoolerSheep/MakeItYapTTS-releases/releases/tag/v0.9.8)
 is available now.
+
+## Download for Windows
+
+**[Download MakeItYapTTS-Installer.exe (65 MB)](https://github.com/CoolerSheep/MakeItYapTTS-releases/releases/latest/download/MakeItYapTTS-Installer.exe)**
+
+Run this single file to download and install the latest release automatically.
+The branded installer supports pause/resume, checks file integrity, and includes
+the voice collection and Create a voice. Approximately 8.79 GB is downloaded
+during setup. Speech generation works offline afterwards. Windows 10/11 x64;
+no account, payment card or separate development tools are needed to begin.
+
+The installation files live under **Releases**, not in the repository file list.
+Use the web installer above for the simplest setup, or the offline files below.
 
 ## Offline installation
 

@@ -1,0 +1,21 @@
+MakeItYapTTS — Proprietary application licence
+
+Copyright © 2026 ANiC. CloudWorks, trading as Cooler Sheep.
+All rights reserved, except as expressly granted below or required by law.
+
+This repository distributes official MakeItYapTTS installers, release information
+and related notices. The application source code is not published here.
+
+You may download and install the application for evaluation, or use an activated
+copy under a valid licence, subject to the Terms of Use supplied with the release
+and published at https://www.makeityap.com/terms.html . This notice does not grant
+an open-source licence to the proprietary application, branding or documentation.
+Nothing in this notice limits rights granted by GitHub's Terms of Service or
+rights that applicable law does not allow us to restrict.
+
+THIRD-PARTY COMPONENTS
+The included speech engines, libraries, runtimes and voice models retain their
+own licences. Those licences govern their respective components and are not
+restricted by this notice or by the application's commercial terms. See
+THIRD_PARTY_NOTICES.txt, bundled licence files and the corresponding source
+archives distributed with the release.
